@@ -1,3 +1,6 @@
 venv/
 experimental/data_classes
 images
+experimental/resize_image
+experimental/balanced_data_classes
+experimental/new
